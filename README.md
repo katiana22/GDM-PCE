@@ -24,11 +24,11 @@ Three illustrative examples are provided. The first considers a dielectric cylin
 
 * _GDM-PCE.py_ - python code to perform the proposed method
 
-* _example-1.py_ - Jupyter notebook for example 1
+* _Example-1.py_ - Jupyter notebook for example 1
 
-* _example-2.py_ - Jupyter notebook for example 2
+* _Example-2.py_ - Jupyter notebook for example 2
  
-* _example-3.py_ - Jupyter notebook for example3 3
+* _Example-3.py_ - Jupyter notebook for example 3
 
 
 ### Contact
