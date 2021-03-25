@@ -16,7 +16,8 @@ GDM-PCE uses concepts from manifold learning
 Details of the methdology can be found in our ArXiv paper here: 
 
 Below, a graphical summary of the method is provided
-![alt text](https://github.com/katiana22/GDM-PCE-surrogates/pipeline.png?raw=true)
+
+<img src="pipeline.png" width="750">
 
 ## Application
 
