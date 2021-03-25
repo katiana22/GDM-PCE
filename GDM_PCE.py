@@ -16,8 +16,8 @@ from mpl_toolkits.mplot3d import Axes3D
 from UQpy.Distributions import Normal, Uniform, JointInd
 from sklearn.model_selection import train_test_split
 from UQpy.Surrogates import *
-from DimensionReduction import Grassmann
-from DimensionReduction import DiffusionMaps
+from UQpy.DimensionReduction import Grassmann
+from UQpy.DimensionReduction import DiffusionMaps
 from UQpy.SampleMethods import LHS
 from scipy.integrate import odeint
 
