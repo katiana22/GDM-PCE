@@ -13,7 +13,7 @@ This Git repository contains python codes for constructing Grassmannian diffusio
 
 Details of the methdology can be found in our ArXiv paper here:  url
 
-Authors: Katiana Kontolati, Dimitrios Loukrezis, Ketson R. M. dos Santos, Dimitrios G. Giovanis, Michael D. Shields
+*Authors: Katiana Kontolati, Dimitrios Loukrezis, Ketson R. M. dos Santos, Dimitrios G. Giovanis, Michael D. Shields*
 
 Below, a graphical summary of the method is provided:
 
