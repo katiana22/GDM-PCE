@@ -29,7 +29,7 @@ Three illustrative examples are provided. The first considers a dielectric cylin
 
 * _data_ - Contains files with datasets and scripts required to run the examples.
 
-* _GDM-PCE.py_ - python code to perform the proposed method
+* _GDM_PCE.py_ - python code to perform the proposed method
 
 * _Example-1.py_ - Jupyter notebook for example 1
 
