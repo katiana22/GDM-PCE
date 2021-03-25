@@ -3,6 +3,7 @@
 * [Methods](#methods)
 * [Examples](#examples)
 * [Contents](#contents)
+* [Getting started](#getting started)
 
 ## General info
 
@@ -12,7 +13,7 @@ This Git repository contains python codes for constructing Grassmannian diffusio
 GDM-PCE uses concepts from manifold learning 
 (nonlinear dimensionallity reduction) and surrogate modeling (Polynomial chaos expansion or PCE) 
 
-Details of the methdology can be found here: 
+Details of the methdology can be found in our ArXiv paper here: 
 
 ## Application
 
@@ -30,6 +31,11 @@ Three illustrative examples are provided. The first considers a dielectric cylin
  
 * _Example-3.py_ - Jupyter notebook for example 3
 
+## Getting started
+* Clone our repo:
+```
+$ git clone
+```
 
 ### Contact
 For more information or questions please email me at: kontolati@jhu.edu
