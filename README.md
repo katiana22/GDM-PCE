@@ -15,7 +15,7 @@ Details of the methdology can be found in our ArXiv paper here:  url
 
 *Authors: Katiana Kontolati, Dimitrios Loukrezis, Ketson R. M. dos Santos, Dimitrios G. Giovanis, Michael D. Shields*
 
-Below, a graphical summary of the method is provided:
+Below, a **graphical summary** of the method is provided:
 
 <img src="pipeline.png" width="700">
 
