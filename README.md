@@ -32,10 +32,8 @@ Three illustrative examples are provided. The first considers a dielectric cylin
 * _Example-3.py_ - Jupyter notebook for example 3
 
 ## Getting started
-* Clone our repo:
-```
-$ git clone
-```
+- Clone our repo: ```$ git clone ```
+- Install dependencies via the ```requirements.txt ``` file
 
 ### Contact
 For more information or questions please email me at: kontolati@jhu.edu
