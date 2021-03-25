@@ -10,7 +10,7 @@
 This Git repository contains python codes for constructing Grassmannian diffusion maps-based adaptive polynomial chaos expansion surrogates, ideal for cases when complex computational models generating high-dimensional outputs are considered. The proposed method is able to handle very high-dimensional datsets, perform succesfully in the small data regime and accelarate uncertainty quantification (UQ) tasks in general.
 
 ## Methods-pipeline
-GDM-PCE uses concepts from manifold learning 
+**GDM PCE** uses concepts from manifold learning 
 (nonlinear dimensionallity reduction) and surrogate modeling (Polynomial chaos expansion or PCE) 
 
 Details of the methdology can be found in our ArXiv paper here:  url
@@ -39,8 +39,10 @@ Three illustrative examples are provided. The first considers a dielectric cylin
 - Clone our repo: ```$ https://github.com/katiana22/GDM-PCE-surrogates.git```
 - Install dependencies via the ```requirements.txt``` file
 
-### Contact
-For more information or questions please email me at: kontolati@jhu.edu
+### Mainteners
+[Katiana Kontolati](https://twitter.com/kontolati)
+
+:email: : kontolati@jhu.edu
 
 
 
