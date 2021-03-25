@@ -1,0 +1,8 @@
+UQpy
+numpy
+scipy
+datafold
+skopt
+itertools
+matplotlib
+sklearn
