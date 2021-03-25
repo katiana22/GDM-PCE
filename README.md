@@ -7,12 +7,13 @@
 
 ## General info
 
-This Git repository contains python codes for constructing Grassmannian diffusion maps-based adaptive polynomial chaos expansion surrogates, ideal for complex applications and models generating high-dimensional outputs. The proposed method is able to handle very high-dimensional datsets, perform succesfully in the small data regime and accelarate uncertainty quantification (UQ) tasks in general.
+This Git repository contains python codes for constructing Grassmannian diffusion maps-based adaptive polynomial chaos expansion surrogates, ideal for complex applications and models generating high-dimensional outputs. The proposed method called **GDM PCE**, is able to handle very high-dimensional datsets, perform succesfully in the small data regime and accelarate uncertainty quantification (UQ) tasks in general.
 
 ## Methods-pipeline
-**GDM PCE** uses concepts from manifold learning and surrogate modeling.
 
 Details of the methdology can be found in our ArXiv paper here:  url
+
+Authors: Katiana Kontolati, Dimitrios Loukrezis, Ketson R. M. dos Santos, Dimitrios G. Giovanis, Michael D. Shields
 
 Below, a graphical summary of the method is provided:
 
