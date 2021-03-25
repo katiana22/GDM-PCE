@@ -13,11 +13,11 @@ This Git repository contains python codes for constructing Grassmannian diffusio
 GDM-PCE uses concepts from manifold learning 
 (nonlinear dimensionallity reduction) and surrogate modeling (Polynomial chaos expansion or PCE) 
 
-Details of the methdology can be found in our ArXiv paper here: 
+Details of the methdology can be found in our ArXiv paper here:  url
 
-Below, a graphical summary of the method is provided
+Below, a graphical summary of the method is provided:
 
-<img src="pipeline.png" width="750">
+<img src="pipeline.png" width="700">
 
 ## Application
 
