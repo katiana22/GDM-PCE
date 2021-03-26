@@ -38,7 +38,7 @@ Three illustrative examples are provided. The first considers a dielectric cylin
 * _Example-3.py_ - Jupyter notebook for example 3
 
 ## Getting started
-**1.** Clone our repo: ```$ https://github.com/katiana22/GDM-PCE.git```
+**1.** Clone our repo: ```$ git clone https://github.com/katiana22/GDM-PCE.git```
 
 **2.** Install dependencies via the ```requirements.txt``` file
 
