@@ -1,4 +1,4 @@
-UQpy == 3.1.4
+UQpy
 numpy
 scipy
 datafold
