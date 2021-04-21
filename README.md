@@ -43,7 +43,7 @@ Three illustrative examples are provided. The first considers a dielectric cylin
 **2.** Install dependencies via the ```requirements.txt``` file
 
 ### Mainteners
-[Katiana Kontolati](https://twitter.com/kontolati)
+[Katiana Kontolati](https://katiana22.github.io/)
 
 :email: : kontolati@jhu.edu
 
