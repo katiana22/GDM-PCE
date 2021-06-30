@@ -44,12 +44,16 @@ Three illustrative examples are provided. The first considers a dielectric cylin
 ## Getting started
 **1.** Clone our repo:
 
-```$ git clone https://github.com/katiana22/GDM-PCE.git```
+```
+git clone https://github.com/katiana22/GDM-PCE.git
+```
 
 **2.** Install dependencies via the following commands: 
 
-```$ cd GDM-PCE```  
-```$ pip install -r requirements.txt``` 
+```
+cd GDM-PCE  
+pip install -r requirements.txt
+``` 
 
 ### Mainteners
 [Katiana Kontolati](https://katiana22.github.io/)
