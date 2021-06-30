@@ -42,9 +42,14 @@ Three illustrative examples are provided. The first considers a dielectric cylin
 * _Example-3.ipynb_ - Jupyter notebook for example 3
 
 ## Getting started
-**1.** Clone our repo: ```$ git clone https://github.com/katiana22/GDM-PCE.git```
+**1.** Clone our repo:
 
-**2.** Install dependencies via the ```requirements.txt``` file
+```$ git clone https://github.com/katiana22/GDM-PCE.git```
+
+**2.** Install dependencies via the following commands: 
+
+```$ cd GDM-PCE```  
+```$ pip install -r requirements.txt``` 
 
 ### Mainteners
 [Katiana Kontolati](https://katiana22.github.io/)
