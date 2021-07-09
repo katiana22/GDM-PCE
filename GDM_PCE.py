@@ -61,7 +61,7 @@ from LoktaVoltera import LV
 class GDMaps:
     """
     Performs GDMaps for a given dataset.
-    n_evecs must be greater then n_parsim
+    n_evecs must be greater than n_parsim
 
     """
 
