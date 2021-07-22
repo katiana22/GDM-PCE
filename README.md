@@ -15,7 +15,7 @@ The proposed method is able to handle very high-dimensional datsets, perform suc
 
 ## Methods-pipeline
 
-Details of the methdology can be found in our ArXiv paper here:  url
+Details of the methdology can be found in our arXiv paper here:  https://arxiv.org/abs/2107.09814
 
 *Authors: Katiana Kontolati, Dimitrios Loukrezis, Ketson R. M. dos Santos, Dimitrios G. Giovanis, Michael D. Shields*
 
