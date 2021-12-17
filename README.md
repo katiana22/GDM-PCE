@@ -59,13 +59,14 @@ pip install -r requirements.txt
 
 If you find this GitHub repository useful for your work, please consider citing this work:
 
+```
 @article{kontolati2021manifold,  
   title={Manifold learning-based polynomial chaos expansions for high-dimensional surrogate models},  
   author={Kontolati, Katiana and Loukrezis, Dimitrios and dos Santos, Ketson RM and Giovanis, Dimitrios G and Shields, Michael D},  
   journal={arXiv preprint arXiv:2107.09814},  
   year={2021}
 }
-
+```
 
 ### Mainteners
 [Katiana Kontolati](https://katiana22.github.io/)
