@@ -41,6 +41,8 @@ Three illustrative examples are provided. The first considers a dielectric cylin
  
 * ```Example-3.ipynb``` - Jupyter notebook for example 3
 
+**Warning:** Depending on the choice of hyperparameters (latent dimension, number of clusters et.c.) the process of constructing the decoder part of the method may be time-consuming. For fast results and testing of the method, it is advised to choose small values for these parameters.
+
 ## Getting started
 
 **1.** Create an Anaconda Python 3.8 virtual environment:
