@@ -31,15 +31,15 @@ Three illustrative examples are provided. The first considers a dielectric cylin
  
 ## Contents
 
-* _data_ - Contains files with datasets and scripts required to run the examples.
+* ```data``` - Contains files with datasets and scripts required to run the examples.
 
-* _GDM_PCE.py_ - python code to perform the proposed method
+* ```GDM_PCE.py``` - python code to perform the proposed method
 
-* _Example-1.ipynb_ - Jupyter notebook for example 1
+* ```Example-1.ipynb``` - Jupyter notebook for example 1
 
-* _Example-2.ipynb_ - Jupyter notebook for example 2
+* ```Example-2.ipynb``` - Jupyter notebook for example 2
  
-* _Example-3.ipynb_ - Jupyter notebook for example 3
+* ```Example-3.ipynb``` - Jupyter notebook for example 3
 
 ## Getting started
 **1.** Clone our repo:
