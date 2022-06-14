@@ -17,7 +17,7 @@ The proposed method is able to handle very high-dimensional datsets, perform suc
 
 Details of the methdology can be found in the published paper [here](10.1615/Int.J.UncertaintyQuantification.2022039936).
 
-*Authors: Katiana Kontolati, Dimitrios Loukrezis, Ketson R. M. dos Santos, Dimitrios G. Giovanis, Michael D. Shields*
+Authors: [Katiana Kontolati](https://scholar.google.com/citations?hl=en&user=n8wtUDYAAAAJ), [Dimitrios Loukrezis](https://scholar.google.com/citations?user=bv1WDkoAAAAJ&hl=en), [Ketson R. M. dos Santos](https://scholar.google.com/citations?user=NASfYzMAAAAJ&hl=en), [Dimitrios G. Giovanis](https://scholar.google.com/citations?user=dnFLyp4AAAAJ&hl=en), [Michael D. Shields](https://scholar.google.com/citations?user=hc85Ll0AAAAJ&hl=en)
 
 Below, a **graphical summary** of the method is provided:
 
