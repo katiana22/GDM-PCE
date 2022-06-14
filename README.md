@@ -42,13 +42,20 @@ Three illustrative examples are provided. The first considers a dielectric cylin
 * ```Example-3.ipynb``` - Jupyter notebook for example 3
 
 ## Getting started
-**1.** Clone our repo:
+
+**1.** Create an Anaconda Python 3.8 virtual environment:
+```
+conda create -n gdm python==3.8  
+conda activate gdm
+```
+
+**2.** Clone our repo:
 
 ```
 git clone https://github.com/katiana22/GDM-PCE.git
 ```
 
-**2.** Install dependencies via the following commands: 
+**3.** Install dependencies via the following commands: 
 
 ```
 cd GDM-PCE  
