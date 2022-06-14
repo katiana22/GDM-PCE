@@ -9,7 +9,7 @@
 
 This Git repository contains python codes for constructing Grassmannian diffusion maps-based polynomial chaos expansion surrogates (GDM PCE), ideal for complex applications and models generating high-dimensional outputs. 
 
-GDM PCE, an encoder-decoder framework, employs Grassmannian diffusion maps, a dimensionallity reduction technique for compressing quantities of interest (QoI), represented by high-dimensional vectors/matrices. Once a latent representation of the data is identified, polynomial chaos expansion is used to construct a map between input stochastic parameters and coordinates on the Grassmannian diffusion manifold. A decoder framework based on geometric harmonics is employed for decompressing generated QoIs back to the ambient space and enable inexpensive Monte Carlo simulations.
+GDM PCE, an **encoder-decoder** framework, employs Grassmannian diffusion maps, a dimensionallity reduction technique for compressing quantities of interest (QoI), represented by high-dimensional vectors/matrices. Once a latent representation of the data is identified, polynomial chaos expansion is used to construct a map between input stochastic parameters and coordinates on the Grassmannian diffusion manifold. A decoder framework based on geometric harmonics is employed for decompressing generated QoIs back to the ambient space and enable inexpensive Monte Carlo simulations.
 
 The proposed method is able to handle very high-dimensional datsets, perform succesfully in the small data regime and accelarate uncertainty quantification (UQ) tasks in general.
 
