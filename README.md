@@ -15,7 +15,7 @@ The proposed method is able to handle very high-dimensional datsets, perform suc
 
 ## Methods-pipeline
 
-Details of the methdology can be found in our arXiv paper here:  https://arxiv.org/abs/2107.09814
+Details of the methdology can be found in the published paper [here](10.1615/Int.J.UncertaintyQuantification.2022039936).
 
 *Authors: Katiana Kontolati, Dimitrios Loukrezis, Ketson R. M. dos Santos, Dimitrios G. Giovanis, Michael D. Shields*
 
@@ -60,11 +60,14 @@ pip install -r requirements.txt
 If you find this GitHub repository useful for your work, please consider citing this work:
 
 ```
-@article{kontolati2021manifold,  
-  title={Manifold learning-based polynomial chaos expansions for high-dimensional surrogate models},  
-  author={Kontolati, Katiana and Loukrezis, Dimitrios and dos Santos, Ketson RM and Giovanis, Dimitrios G and Shields, Michael D},  
-  journal={arXiv preprint arXiv:2107.09814},  
-  year={2021}
+@article{kontolati2022manifold,
+  title={Manifold learning-based polynomial chaos expansions for high-dimensional surrogate models},
+  author={Kontolati, Katiana and Loukrezis, Dimitrios and dos Santos, Ketson RM and Giovanis, Dimitrios G and Shields, Michael D},
+  journal={International Journal for Uncertainty Quantification},
+  volume={12},
+  number={4},
+  year={2022},
+  publisher={Begel House Inc.}
 }
 ```
 
